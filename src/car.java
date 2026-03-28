@@ -33,4 +33,4 @@ class Truck extends Vehicle {
     }
 }
     
-}
+
