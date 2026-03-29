@@ -13,7 +13,7 @@ public class Main {
         Customer c = new Customer("U1", "Mayank");
 
         while (true) {
-            System.out.println("1. Rent 2. Return 3. Exit")
+            System.out.println("1. Rent 2. Return 3. Exit");
             int ch = sc.nextInt();
 
             if (ch == 1) {
