@@ -1,6 +1,6 @@
 package src;
 
-class Car  Vehicle {
+class Car extends Vehicle {
     public Car(String id, double price) {
         super(id, "Car", price);
     }
