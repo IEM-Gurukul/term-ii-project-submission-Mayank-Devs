@@ -9,5 +9,5 @@ class Location {
 
     public String getPlace() {
         return place;
-    
+    }
 }
