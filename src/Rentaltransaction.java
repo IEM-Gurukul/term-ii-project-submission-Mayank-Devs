@@ -11,7 +11,7 @@ class RentalTransaction {
     }
 
     public double getTotalCost() {
-        return vehicle.calculateRent(days;
+        return vehicle.calculateRent(days);
     }
 }
 
